@@ -1,0 +1,8 @@
+/Users/carolinacosta/JavaSeleniumCucumber/src/test/java/com/example/AppTest.java
+/Users/carolinacosta/JavaSeleniumCucumber/src/test/java/com/example/hooks/BaseTest.java
+/Users/carolinacosta/JavaSeleniumCucumber/src/test/java/com/example/pages/CreateTaskPage.java
+/Users/carolinacosta/JavaSeleniumCucumber/src/test/java/com/example/pages/LoginPage.java
+/Users/carolinacosta/JavaSeleniumCucumber/src/test/java/com/example/runners/TestRunner.java
+/Users/carolinacosta/JavaSeleniumCucumber/src/test/java/com/example/stepDefinitions/CreateTaskSteps.java
+/Users/carolinacosta/JavaSeleniumCucumber/src/test/java/com/example/stepDefinitions/LoginSteps.java
+/Users/carolinacosta/JavaSeleniumCucumber/src/test/java/com/example/suites/TestSuite.java
