@@ -2,3 +2,4 @@ chromedriver
 config.properties
 .DS_Store
 .html
+.jpg
